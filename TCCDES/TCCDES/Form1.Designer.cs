@@ -34,7 +34,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(234, 97);
+            this.label1.Location = new System.Drawing.Point(237, 100);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(98, 13);
             this.label1.TabIndex = 0;
@@ -47,7 +47,7 @@
             this.ClientSize = new System.Drawing.Size(610, 541);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Ong Alem Brasil";
             this.ResumeLayout(false);
             this.PerformLayout();
 
