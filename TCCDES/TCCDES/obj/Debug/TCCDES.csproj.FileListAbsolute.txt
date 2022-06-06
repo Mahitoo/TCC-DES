@@ -1,0 +1,9 @@
+C:\Users\Tecnico\Desktop\TCCDES\TCCDES\bin\Debug\TCCDES.exe.config
+C:\Users\Tecnico\Desktop\TCCDES\TCCDES\bin\Debug\TCCDES.exe
+C:\Users\Tecnico\Desktop\TCCDES\TCCDES\bin\Debug\TCCDES.pdb
+C:\Users\Tecnico\Desktop\TCCDES\TCCDES\obj\Debug\TCCDES.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Desktop\TCCDES\TCCDES\obj\Debug\TCCDES.Form1.resources
+C:\Users\Tecnico\Desktop\TCCDES\TCCDES\obj\Debug\TCCDES.Properties.Resources.resources
+C:\Users\Tecnico\Desktop\TCCDES\TCCDES\obj\Debug\TCCDES.csproj.GenerateResource.Cache
+C:\Users\Tecnico\Desktop\TCCDES\TCCDES\obj\Debug\TCCDES.exe
+C:\Users\Tecnico\Desktop\TCCDES\TCCDES\obj\Debug\TCCDES.pdb
