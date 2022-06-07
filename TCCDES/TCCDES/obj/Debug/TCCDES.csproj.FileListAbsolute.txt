@@ -17,3 +17,14 @@ C:\Users\Tecnico\Desktop\tcc-des\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Form1.re
 C:\Users\Tecnico\Desktop\tcc-des\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Login.resources
 C:\Users\Tecnico\Desktop\tcc-des\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Properties.Resources.resources
 C:\Users\Tecnico\Desktop\tcc-des\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.csproj.GenerateResource.Cache
+C:\Users\chico\Desktop\tcc-des\TCCDES\TCCDES\bin\Debug\TCCDES.exe.config
+C:\Users\chico\Desktop\tcc-des\TCCDES\TCCDES\bin\Debug\TCCDES.exe
+C:\Users\chico\Desktop\tcc-des\TCCDES\TCCDES\bin\Debug\TCCDES.pdb
+C:\Users\chico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.csprojAssemblyReference.cache
+C:\Users\chico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.Login.resources
+C:\Users\chico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.Properties.Resources.resources
+C:\Users\chico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.csproj.GenerateResource.cache
+C:\Users\chico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.csproj.CoreCompileInputs.cache
+C:\Users\chico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.exe
+C:\Users\chico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.pdb
+C:\Users\chico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.Home.resources
