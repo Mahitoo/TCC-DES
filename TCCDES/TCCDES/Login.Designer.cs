@@ -32,6 +32,7 @@
             this.lblSenha = new System.Windows.Forms.Label();
             this.txtBoxUsuario = new System.Windows.Forms.TextBox();
             this.txtBoxSenha = new System.Windows.Forms.TextBox();
+            this.btnLogin = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblUsuario
@@ -73,14 +74,25 @@
             this.txtBoxSenha.TabIndex = 3;
             this.txtBoxSenha.UseSystemPasswordChar = true;
             // 
+            // btnLogin
+            // 
+            this.btnLogin.Location = new System.Drawing.Point(108, 155);
+            this.btnLogin.Name = "btnLogin";
+            this.btnLogin.Size = new System.Drawing.Size(75, 23);
+            this.btnLogin.TabIndex = 4;
+            this.btnLogin.Text = "Login";
+            this.btnLogin.UseVisualStyleBackColor = true;
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
+            // 
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LimeGreen;
-            this.BackgroundImage = global::TCCDES.Properties.Resources.fundoLogin;
+            this.BackgroundImage = global::TCCDES.Properties.Resources.wallpaper;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(366, 300);
+            this.ClientSize = new System.Drawing.Size(340, 331);
+            this.Controls.Add(this.btnLogin);
             this.Controls.Add(this.txtBoxSenha);
             this.Controls.Add(this.txtBoxUsuario);
             this.Controls.Add(this.lblSenha);
@@ -98,5 +110,6 @@
         private System.Windows.Forms.Label lblSenha;
         private System.Windows.Forms.TextBox txtBoxUsuario;
         private System.Windows.Forms.TextBox txtBoxSenha;
+        private System.Windows.Forms.Button btnLogin;
     }
 }
