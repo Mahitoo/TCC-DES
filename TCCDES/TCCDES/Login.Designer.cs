@@ -33,6 +33,8 @@
             this.txtBoxUsuario = new System.Windows.Forms.TextBox();
             this.txtBoxSenha = new System.Windows.Forms.TextBox();
             this.btnLogin = new System.Windows.Forms.Button();
+            this.lblLink = new System.Windows.Forms.LinkLabel();
+            this.lblEsqSenha = new System.Windows.Forms.LinkLabel();
             this.SuspendLayout();
             // 
             // lblUsuario
@@ -63,6 +65,7 @@
             // 
             this.txtBoxUsuario.Location = new System.Drawing.Point(108, 64);
             this.txtBoxUsuario.Name = "txtBoxUsuario";
+            this.txtBoxUsuario.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.txtBoxUsuario.Size = new System.Drawing.Size(100, 20);
             this.txtBoxUsuario.TabIndex = 2;
             // 
@@ -76,13 +79,41 @@
             // 
             // btnLogin
             // 
-            this.btnLogin.Location = new System.Drawing.Point(108, 155);
+            this.btnLogin.Location = new System.Drawing.Point(133, 142);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(75, 23);
             this.btnLogin.TabIndex = 4;
             this.btnLogin.Text = "Login";
             this.btnLogin.UseVisualStyleBackColor = true;
             this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
+            // 
+            // lblLink
+            // 
+            this.lblLink.ActiveLinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.lblLink.AutoSize = true;
+            this.lblLink.BackColor = System.Drawing.Color.Transparent;
+            this.lblLink.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblLink.LinkColor = System.Drawing.Color.White;
+            this.lblLink.Location = new System.Drawing.Point(130, 179);
+            this.lblLink.Name = "lblLink";
+            this.lblLink.Size = new System.Drawing.Size(94, 16);
+            this.lblLink.TabIndex = 5;
+            this.lblLink.TabStop = true;
+            this.lblLink.Text = "Registrar-se";
+            // 
+            // lblEsqSenha
+            // 
+            this.lblEsqSenha.ActiveLinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.lblEsqSenha.AutoSize = true;
+            this.lblEsqSenha.BackColor = System.Drawing.Color.Transparent;
+            this.lblEsqSenha.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblEsqSenha.LinkColor = System.Drawing.Color.White;
+            this.lblEsqSenha.Location = new System.Drawing.Point(130, 209);
+            this.lblEsqSenha.Name = "lblEsqSenha";
+            this.lblEsqSenha.Size = new System.Drawing.Size(146, 16);
+            this.lblEsqSenha.TabIndex = 6;
+            this.lblEsqSenha.TabStop = true;
+            this.lblEsqSenha.Text = "Esqueceu a Senha?";
             // 
             // Login
             // 
@@ -91,7 +122,9 @@
             this.BackColor = System.Drawing.Color.LimeGreen;
             this.BackgroundImage = global::TCCDES.Properties.Resources.wallpaper;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(340, 331);
+            this.ClientSize = new System.Drawing.Size(304, 313);
+            this.Controls.Add(this.lblEsqSenha);
+            this.Controls.Add(this.lblLink);
             this.Controls.Add(this.btnLogin);
             this.Controls.Add(this.txtBoxSenha);
             this.Controls.Add(this.txtBoxUsuario);
@@ -111,5 +144,7 @@
         private System.Windows.Forms.TextBox txtBoxUsuario;
         private System.Windows.Forms.TextBox txtBoxSenha;
         private System.Windows.Forms.Button btnLogin;
+        private System.Windows.Forms.LinkLabel lblLink;
+        private System.Windows.Forms.LinkLabel lblEsqSenha;
     }
 }
