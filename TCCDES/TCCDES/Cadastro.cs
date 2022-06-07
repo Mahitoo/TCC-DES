@@ -10,17 +10,21 @@ using System.Windows.Forms;
 
 namespace TCCDES
 {
-    public partial class Home : Form
+    public partial class Cadastro : Form
     {
-        public Home()
+        public Cadastro()
         {
             InitializeComponent();
         }
 
+        private void Cadastro_Load(object sender, EventArgs e)
+        {
+
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
-            Cadastro Cadastro = new Cadastro();
-            Cadastro.ShowDialog();
+
         }
     }
 }

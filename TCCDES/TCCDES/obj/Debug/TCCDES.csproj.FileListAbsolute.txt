@@ -38,6 +38,19 @@ C:\Users\Tecnico\Desktop\tccdes0706\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Home.
 C:\Users\Tecnico\Desktop\tccdes0706\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Login.resources
 C:\Users\Tecnico\Desktop\tccdes0706\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Properties.Resources.resources
 C:\Users\Tecnico\Desktop\tccdes0706\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.csproj.GenerateResource.Cache
+<<<<<<< HEAD
+C:\Users\Tecnico\Desktop\Nova pasta\TCC-DES\TCCDES\TCCDES\bin\Debug\TCCDES.exe.config
+C:\Users\Tecnico\Desktop\Nova pasta\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.pdb
+C:\Users\Tecnico\Desktop\Nova pasta\TCC-DES\TCCDES\TCCDES\bin\Debug\TCCDES.exe
+C:\Users\Tecnico\Desktop\Nova pasta\TCC-DES\TCCDES\TCCDES\bin\Debug\TCCDES.pdb
+C:\Users\Tecnico\Desktop\Nova pasta\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Desktop\Nova pasta\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Cadastro.resources
+C:\Users\Tecnico\Desktop\Nova pasta\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Home.resources
+C:\Users\Tecnico\Desktop\Nova pasta\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Login.resources
+C:\Users\Tecnico\Desktop\Nova pasta\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Properties.Resources.resources
+C:\Users\Tecnico\Desktop\Nova pasta\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.csproj.GenerateResource.Cache
+C:\Users\Tecnico\Desktop\Nova pasta\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.exe
+=======
 C:\Users\Tecnico\Desktop\tcc-des\TCCDES\TCCDES\bin\Debug\TCCDES.exe.config
 C:\Users\Tecnico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.pdb
 C:\Users\Tecnico\Desktop\tcc-des\TCCDES\TCCDES\bin\Debug\TCCDES.exe
@@ -48,3 +61,4 @@ C:\Users\Tecnico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.Login.resources
 C:\Users\Tecnico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.Properties.Resources.resources
 C:\Users\Tecnico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.csproj.GenerateResource.Cache
 C:\Users\Tecnico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.exe
+>>>>>>> 75ad9f496990673c50c42a64446ac46ad776c4f2

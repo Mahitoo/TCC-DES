@@ -46,6 +46,7 @@
             this.button1.TabIndex = 1;
             this.button1.Text = "CADASTRO";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -71,6 +72,8 @@
             this.button3.Text = "CONTA";
             this.button3.UseVisualStyleBackColor = false;
             // 
+<<<<<<< HEAD
+=======
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
@@ -81,6 +84,7 @@
             this.pictureBox1.TabIndex = 4;
             this.pictureBox1.TabStop = false;
             // 
+>>>>>>> 75ad9f496990673c50c42a64446ac46ad776c4f2
             // Home
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -91,7 +95,11 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+<<<<<<< HEAD
+            this.Controls.Add(this.label1);
+=======
             this.ForeColor = System.Drawing.Color.Transparent;
+>>>>>>> 75ad9f496990673c50c42a64446ac46ad776c4f2
             this.Name = "Home";
             this.Text = "Ong Alem Brasil";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
