@@ -55,6 +55,7 @@
             this.button1.TabIndex = 1;
             this.button1.Text = "CADASTRO";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -80,7 +81,7 @@
             this.button3.Text = "CONTA";
             this.button3.UseVisualStyleBackColor = false;
             // 
-            // Form1
+            // Home
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -89,7 +90,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "Home";
             this.Text = "Ong Alem Brasil";
             this.ResumeLayout(false);
             this.PerformLayout();
