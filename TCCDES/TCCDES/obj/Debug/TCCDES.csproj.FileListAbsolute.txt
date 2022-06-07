@@ -63,3 +63,4 @@ C:\Users\Tecnico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.csproj.GenerateR
 C:\Users\Tecnico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.exe
 >>>>>>> 75ad9f496990673c50c42a64446ac46ad776c4f2
 C:\Users\Tecnico\Desktop\tccdes0706\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Cadastro.resources
+C:\Users\Tecnico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.Cadastro.resources
