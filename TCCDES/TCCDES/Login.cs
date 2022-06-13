@@ -24,5 +24,11 @@ namespace TCCDES
             home.Show();
         }
 
+        private void lblLink_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Register cadastrar = new Register();
+            this.Hide();
+            cadastrar.Show();
+        }
     }
 }

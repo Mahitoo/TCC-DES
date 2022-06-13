@@ -64,3 +64,15 @@ C:\Users\Tecnico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.exe
 >>>>>>> 75ad9f496990673c50c42a64446ac46ad776c4f2
 C:\Users\Tecnico\Desktop\tccdes0706\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Cadastro.resources
 C:\Users\Tecnico\Desktop\tcc-des\TCCDES\TCCDES\obj\Debug\TCCDES.Cadastro.resources
+C:\Users\Mathe\Desktop\Projects\Personal Projects\Visual Studio\TCC-DES\TCCDES\TCCDES\bin\Debug\TCCDES.exe.config
+C:\Users\Mathe\Desktop\Projects\Personal Projects\Visual Studio\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.exe
+C:\Users\Mathe\Desktop\Projects\Personal Projects\Visual Studio\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.pdb
+C:\Users\Mathe\Desktop\Projects\Personal Projects\Visual Studio\TCC-DES\TCCDES\TCCDES\bin\Debug\TCCDES.exe
+C:\Users\Mathe\Desktop\Projects\Personal Projects\Visual Studio\TCC-DES\TCCDES\TCCDES\bin\Debug\TCCDES.pdb
+C:\Users\Mathe\Desktop\Projects\Personal Projects\Visual Studio\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.csprojResolveAssemblyReference.cache
+C:\Users\Mathe\Desktop\Projects\Personal Projects\Visual Studio\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Cadastro.resources
+C:\Users\Mathe\Desktop\Projects\Personal Projects\Visual Studio\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Home.resources
+C:\Users\Mathe\Desktop\Projects\Personal Projects\Visual Studio\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Login.resources
+C:\Users\Mathe\Desktop\Projects\Personal Projects\Visual Studio\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Properties.Resources.resources
+C:\Users\Mathe\Desktop\Projects\Personal Projects\Visual Studio\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.csproj.GenerateResource.Cache
+C:\Users\Mathe\Desktop\Projects\Personal Projects\Visual Studio\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Register.resources

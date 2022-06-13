@@ -10,26 +10,18 @@ using System.Windows.Forms;
 
 namespace TCCDES
 {
-    public partial class Cadastro : Form
+    public partial class Register : Form
     {
-        public Cadastro()
+        public Register()
         {
             InitializeComponent();
         }
 
-        private void Cadastro_Load(object sender, EventArgs e)
+        private void btnRegister_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtBoxWhatsApp_TextChanged(object sender, EventArgs e)
-        {
-
+            Login logar = new Login();
+            this.Hide();
+            logar.Show();
         }
     }
 }
