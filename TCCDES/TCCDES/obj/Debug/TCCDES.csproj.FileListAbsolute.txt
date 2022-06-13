@@ -76,3 +76,15 @@ C:\Users\Mathe\Desktop\Projects\Personal Projects\Visual Studio\TCC-DES\TCCDES\T
 C:\Users\Mathe\Desktop\Projects\Personal Projects\Visual Studio\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Properties.Resources.resources
 C:\Users\Mathe\Desktop\Projects\Personal Projects\Visual Studio\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.csproj.GenerateResource.Cache
 C:\Users\Mathe\Desktop\Projects\Personal Projects\Visual Studio\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Register.resources
+C:\Users\Tecnico\Desktop\Nova pasta (3)\TCC-DES\TCCDES\TCCDES\bin\Debug\TCCDES.exe.config
+C:\Users\Tecnico\Desktop\Nova pasta (3)\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.exe
+C:\Users\Tecnico\Desktop\Nova pasta (3)\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.pdb
+C:\Users\Tecnico\Desktop\Nova pasta (3)\TCC-DES\TCCDES\TCCDES\bin\Debug\TCCDES.exe
+C:\Users\Tecnico\Desktop\Nova pasta (3)\TCC-DES\TCCDES\TCCDES\bin\Debug\TCCDES.pdb
+C:\Users\Tecnico\Desktop\Nova pasta (3)\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Desktop\Nova pasta (3)\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Cadastro.resources
+C:\Users\Tecnico\Desktop\Nova pasta (3)\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Home.resources
+C:\Users\Tecnico\Desktop\Nova pasta (3)\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Login.resources
+C:\Users\Tecnico\Desktop\Nova pasta (3)\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Properties.Resources.resources
+C:\Users\Tecnico\Desktop\Nova pasta (3)\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.Register.resources
+C:\Users\Tecnico\Desktop\Nova pasta (3)\TCC-DES\TCCDES\TCCDES\obj\Debug\TCCDES.csproj.GenerateResource.Cache

@@ -77,7 +77,7 @@
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.Image = global::TCCDES.Properties.Resources.Logo1;
             this.pictureBox1.Location = new System.Drawing.Point(121, 24);
-            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Name = "pictureBox1";//
             this.pictureBox1.Size = new System.Drawing.Size(379, 140);
             this.pictureBox1.TabIndex = 4;
             this.pictureBox1.TabStop = false;
