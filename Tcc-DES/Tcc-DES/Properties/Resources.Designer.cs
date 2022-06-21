@@ -63,6 +63,26 @@ namespace Tcc_DES.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ajax_loader_green {
+            get {
+                object obj = ResourceManager.GetObject("ajax-loader-green", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap CorruptOldfashionedGuineapig_max_1mb {
+            get {
+                object obj = ResourceManager.GetObject("CorruptOldfashionedGuineapig-max-1mb", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_lock_24 {
             get {
                 object obj = ResourceManager.GetObject("icons8-lock-24", resourceCulture);
@@ -76,6 +96,16 @@ namespace Tcc_DES.Properties {
         internal static System.Drawing.Bitmap icons8_user_30 {
             get {
                 object obj = ResourceManager.GetObject("icons8-user-30", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap loading_buffering {
+            get {
+                object obj = ResourceManager.GetObject("loading-buffering", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

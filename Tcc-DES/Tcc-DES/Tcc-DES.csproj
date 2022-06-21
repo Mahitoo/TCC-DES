@@ -119,6 +119,15 @@
   <ItemGroup>
     <None Include="Resources\icons8-lock-24.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading-buffering.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajax-loader-green.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CorruptOldfashionedGuineapig-max-1mb.gif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
