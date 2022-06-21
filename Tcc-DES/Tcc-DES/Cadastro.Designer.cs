@@ -66,7 +66,7 @@
             this.txtBoxDataNascimento.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtBoxDataNascimento.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtBoxDataNascimento.ForeColor = System.Drawing.Color.White;
-            this.txtBoxDataNascimento.Location = new System.Drawing.Point(394, 242);
+            this.txtBoxDataNascimento.Location = new System.Drawing.Point(344, 250);
             this.txtBoxDataNascimento.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtBoxDataNascimento.Name = "txtBoxDataNascimento";
             this.txtBoxDataNascimento.Size = new System.Drawing.Size(189, 16);
@@ -221,7 +221,7 @@
             this.txtTelefone.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtTelefone.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTelefone.ForeColor = System.Drawing.Color.White;
-            this.txtTelefone.Location = new System.Drawing.Point(266, 461);
+            this.txtTelefone.Location = new System.Drawing.Point(265, 461);
             this.txtTelefone.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtTelefone.Name = "txtTelefone";
             this.txtTelefone.Size = new System.Drawing.Size(297, 16);
