@@ -15,6 +15,7 @@ namespace Tcc_DES
         public FormLogin()
         {
             InitializeComponent();
+            textUsuario.Select();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -22,6 +23,11 @@ namespace Tcc_DES
             Home home = new Home();
             this.Hide();
             home.Show();
+        }
+
+        private void FormLogin_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
